@@ -16,7 +16,7 @@ variables:
   webAppName: 'flask-ml-azure-serverless'
 
   # Environment name
-  environmentName: 'flask-ml-service'
+  environmentName: 'main'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
