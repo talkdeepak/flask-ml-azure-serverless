@@ -6,14 +6,14 @@ trigger:
 - main
 
 # TODO: Replace the agent pool name
-pool: myAgentPool
+pool: UdacityDevOps2AgentPool
 
 variables:
   # TODO: Replace the service connection name as used in the DevOps project settings
-  azureServiceConnectionId: 'mySC'
+  azureServiceConnectionId: 'flask-ml-azure-serverless-ServiceConn'
   
   # TODO: Specify the value of the existing Web App name
-  webAppName: 'mywebapp207578'
+  webAppName: 'flask-ml-azure-serverless'
 
   # Environment name
   environmentName: 'flask-ml-service'
