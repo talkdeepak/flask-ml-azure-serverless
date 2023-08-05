@@ -26,7 +26,7 @@ stages:
   displayName: Build stage
   jobs:
   - job: BuildJob
-    pool: myAgentPool
+    pool: UdacityDevOps2AgentPool
     steps:    
     - script: |
         python3.7 -m pip install --upgrade pip
