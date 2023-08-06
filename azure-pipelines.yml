@@ -67,7 +67,7 @@ stages:
   condition: succeeded()
   jobs:
   - deployment: DeploymentJob
-    pool: myAgentPool
+    pool: UdacityDevOps2AgentPool
     environment: $(environmentName)
     strategy:
       runOnce:
