@@ -13,7 +13,7 @@ variables:
   azureServiceConnectionId: 'flask-ml-azure-serverless-ServiceConn'
   
   # TODO: Specify the value of the existing Web App name
-  webAppName: 'UdacityAzureDevOps2'
+  webAppName: 'flask-ml-azure-webapp'
 
   # Environment name
   environmentName: 'main'
