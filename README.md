@@ -1,3 +1,6 @@
+
+[![Python application test with Github Actions](https://github.com/talkdeepak/UdacityAzureDevOps2/actions/workflows/main.yml/badge.svg)](https://github.com/talkdeepak/UdacityAzureDevOps2/actions/workflows/main.yml)
+
 # OverView
 This project is Python Flask application hosted in Azure DevOps which can predict housing price in a particular area. it depends upon Machine Learning model SKLearn.
 
