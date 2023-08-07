@@ -30,5 +30,23 @@ https://app.diagrams.net/#G1R9vl7V4p922r-4v5t5xgKWXc1UBgJkuu![image](https://git
   ```
   ssh -keygen -t rsa
   ```
+ * Copy the public key file : rsa.pub file
+* Add the public key content to your Github account in Settings --> SSH key) . This allows to open or clone the repo from cloud shell without entering the credentials.
+* now Clone the repo in cloud shell
+
+  ```
+  git clone git@github.com:talkdeepak/UdacityAzureDevOps2.git
+
+  ```
+  ## Create the python virtual environment using following commands
+
+  ```
+  python3 -m venv ~/.devops
+  source ~/.devops/bin/activate
+
+  ```
+
+  
+  
   
 
