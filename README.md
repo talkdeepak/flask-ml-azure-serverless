@@ -17,5 +17,15 @@ https://app.diagrams.net/#G1R9vl7V4p922r-4v5t5xgKWXc1UBgJkuu![image](https://git
 * Follow this link to Trello Board : https://trello.com/b/0P1zCeYx/sprint1-duacitypoject2![image](https://github.com/talkdeepak/flask-ml-azure-serverless/assets/29501818/f043c582-cde7-4f51-b2d9-63e4447fa1d2)
 * Also for spreadheetplanning we are using google sheets for this project  : https://docs.google.com/spreadsheets/d/1zC-Li3UpKbEmmkAHVjaiMbXY2Eg50ugrBOtR9uOl3B4/edit#gid=1348135932![image](https://github.com/talkdeepak/flask-ml-azure-serverless/assets/29501818/995c7ee4-eb17-4c18-a25b-a9a62bef8292)
 
+## Requirement and dependencies
+* Azure Account ( I have used free account)
+* SSH key from GitHub
 
+## How to Get Started
+* Go to Azure Cloud shell from (top right corner after login to portal.azure.com)
+* Create SSH keys for accessing the GitHub repo
+  ```
+  ssh -keygen -t rsa
+  ```
+  
 
