@@ -184,6 +184,11 @@ locust -f locustfile.py
 ![image](https://github.com/talkdeepak/flask-ml-azure-serverless/assets/29501818/8c7cf751-782d-4a80-b2ce-c89bec686b28)
 
 
+### Demo Video
+* Here is the link to unlisted youtube Demo video of this project
+ https://youtu.be/31sgisQk5-w
+
+
 
 
       
